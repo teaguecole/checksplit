@@ -1,1 +1,2 @@
-Project 1 Days 16-18 of #100DaysofSwiftUI from [Hacking With Swift](https://www.hackingwithswift.com/100/swiftui)
+# #100DaysofSwiftUI Project 1
+[WeSplit](https://www.hackingwithswift.com/books/ios-swiftui/wesplit-introduction) is a simple app that lets you split a check between x number of people.
